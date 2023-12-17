@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oompaloop
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... java and python
+- 👀 I’m interested in ... Network Engineering and Systems Programming
+- 🌱 I’m currently learning ... C, Assembly, Java and Python
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... ha
 
