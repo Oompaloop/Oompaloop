@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oompaloop
-- 👀 I’m interested in ... Network Engineering and Systems Programming
+- 👀 I’m interested in ... Embedded Systems and Network Engineering
 - 🌱 I’m currently learning ... C, Assembly, Java and Python
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... ha
