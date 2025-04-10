@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamLDev
+- 👋 Hi, I’m @Sam
 - 👀 I’m interested in ... Embedded Systems and Network Engineering
 - 🌱 I’m currently learning ... C, Assembly, Java and Python
 - 💞️ I’m looking to collaborate on ... nothing at the moment
